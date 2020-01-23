@@ -40,3 +40,7 @@ body {
 .project a {
      text-align: center;
 }
+
+.jumbotron p.active {
+     color: #3083d2;
+}
